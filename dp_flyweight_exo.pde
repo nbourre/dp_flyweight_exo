@@ -1,5 +1,5 @@
 ArrayList<Arbre> foret;
-int nbArbres = 150;
+int nbArbres = 1000;
 
 void setup() {
   size (800, 600);
